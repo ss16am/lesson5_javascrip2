@@ -4,19 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(October 18, 2017)
+(Month Day, Year)
 
 ### Student Name:  
-(Daniel Shwake)
+(First and Last Name)
 
 ### Project Description:
-(WE had to learn about else if and sub in the numbers.)
+(In your own words, briefly describe the assignment.)
 
 ### View Project:
-(https://github.com/Dshwake/lesson5_javascript2)
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Learned about the if function.)
-2. (Learned about the else if function.)
-3. (Learned about the get element ID function.)
+1. (Briefly describe a lesson/concept learned in this lesson.)
+2. (Briefly describe a lesson/concept learned in this lesson.)
+3. (Briefly describe a lesson/concept learned in this lesson.)
 
